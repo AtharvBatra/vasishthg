@@ -47,4 +47,4 @@
 [![Vasishthg's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasishthg&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
-<h4>This is my GitHub repository where you will see some weird projects that I have worked on, but maybe some cool ones too (based on how you define "cool").</h4>
+<h4>This was weird but cool!</h4>
