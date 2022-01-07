@@ -1,6 +1,6 @@
 # 👋 Welcome to my github page!
 
-<img src="https://cdn.discordapp.com/attachments/929064911575863356/929064920555880508/wKSnKH6R5hyEQAAAABJRU5ErkJggg.png" style="width: 100%"> 
+<img src="" style="width: 100%"> 
 <p>My name is Vasishth and I am a student and web designer, Gamedev, ethical hacker and a 3D artist from India..</p>
 
 <p>I am skilled in: </p>
