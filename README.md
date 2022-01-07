@@ -42,7 +42,7 @@
 ## Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vasishthg&show_icons=true&theme=midnight-purple" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-zamil&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasishthg&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"/>
  
 [![Vasishthg's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasishthg&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
