@@ -17,7 +17,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B)
   <img src="https://img.shields.io/badge/-CSS-001633?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/-PostgreSQL-001633?style=for-the-badge&logo=postgresql">
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
   <img src="https://img.shields.io/badge/-MySQL-001633?style=for-the-badge&logo=mysql">
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
