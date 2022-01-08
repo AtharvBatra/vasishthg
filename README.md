@@ -12,7 +12,6 @@
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   <img src="https://img.shields.io/badge/-JavaScript-001633?style=for-the-badge&logo=javascript">
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   <img src="https://img.shields.io/badge/-TypeScript-001633?style=for-the-badge&logo=typescript">
   <img src="https://img.shields.io/badge/-HTML-001633?style=for-the-badge&logo=html5">
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -39,7 +38,6 @@
   <img src="https://img.shields.io/badge/-XAMPP-001633?style=for-the-badge&logo=xampp">
   ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 </div>
 
 ## Socials
