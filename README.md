@@ -41,7 +41,7 @@
 
 ## Socials
 <div style="display: flex;">
-  <a href="https://discord.gg/users/915138167764549703"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord"></a>
+  <a href="https://discord.com/users/915138167764549703"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord"></a>
   <a href="https://twitter.com/vasishthg"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter"></a>
   <a href="mailto:vasishthg.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
 </div>
