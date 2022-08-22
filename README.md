@@ -1,6 +1,5 @@
 # helo
 
-<img src="https://cdn.discordapp.com/attachments/929068192649871410/929068201009090641/unknown.png" style="width: 100%"> 
 <p>Im Vasishth and a full stack webdev and gamedev. Professional js hater and expert write-from-scratch implementer. or u can say i mek backend, i mean im gud at frontend aswel but cmon.</p>
 
 ## Forté
