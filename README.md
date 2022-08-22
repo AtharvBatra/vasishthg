@@ -1,42 +1,41 @@
-# 👋 Welcome to my github page!
+# helo
 
 <img src="https://cdn.discordapp.com/attachments/929068192649871410/929068201009090641/unknown.png" style="width: 100%"> 
-<p>My name is Vasishth and I am a student and web designer, Gamedev, ethical hacker and a 3D artist from India..</p>
+<p>Im Vasishth and a full stack webdev and gamedev. Professional js hater and expert write-from-scratch implementer. or u can say i mek backend, i mean im gud at frontend aswel but cmon.</p>
 
-<p>I am skilled in: </p>
+## Forté
 
-<div style="display: flex;">
-  
-![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  <img src="https://img.shields.io/badge/-Python-001633?style=for-the-badge&logo=python">
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  <img src="https://img.shields.io/badge/-JavaScript-001633?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/-TypeScript-001633?style=for-the-badge&logo=typescript">
-  <img src="https://img.shields.io/badge/-HTML-001633?style=for-the-badge&logo=html5">
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B)
-  <img src="https://img.shields.io/badge/-CSS-001633?style=for-the-badge&logo=css3">
-  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-  <img src="https://img.shields.io/badge/-MySQL-001633?style=for-the-badge&logo=mysql">
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  <img src="https://img.shields.io/badge/-JQuery-001633?style=for-the-badge&logo=jquery">
-  <img src="https://img.shields.io/badge/-Flask-001633?style=for-the-badge&logo=flask">
-  <img src="https://img.shields.io/badge/-Node.js-001633?style=for-the-badge&logo=node.js">
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  <img src="https://img.shields.io/badge/-Git-001633?style=for-the-badge&logo=git">
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-  <img src="https://img.shields.io/badge/-Bash-001633?style=for-the-badge&logo=gnubash">
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-  <img src="https://img.shields.io/badge/-GNU/Linux-001633?style=for-the-badge&logo=linux">
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  <img src="https://img.shields.io/badge/-XAMPP-001633?style=for-the-badge&logo=xampp">
-  ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-</div>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Entusiast :)<br>
+flask>django<br>
+vanilla>libs<br>
+i stil prefer debian over arch. stuck in windows cuz OEM >:(
 
 ## Socials
 <div style="display: flex;">
@@ -44,13 +43,8 @@
   <a href="https://twitter.com/vasishthg"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter"></a>
   <a href="mailto:vasishthg.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a>
 </div>
+<br>
 
-## Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasishthg&show_icons=true&theme=midnight-purple" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasishthg&layout=compact&card_width=250&langs_count=6&theme=react" height="195rem"/>
- 
-[![Vasishthg's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasishthg&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-
-<h4>This was weird but cool!</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=vasishthg&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasishthg&layout=compact&card_width=250&langs_count=6&theme=dark"/>
+<h4>thought of updatin ma github, looked way too outdated ;-;</h4>
