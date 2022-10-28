@@ -1,6 +1,6 @@
 # helo
 
-<p>Im Vasishth and a full stack webdev and gamedev. Professional js hater and expert write-from-scratch implementer. or u can say i mek backend, i mean im gud at frontend aswel but cmon.</p>
+<p>Im Vasishth and a full stack webdev and gamedev. Professional js hater and write-from-scratch implementer. or u can say i mek backend, i mean im gud at frontend aswel but cmon.</p>
 
 ## Forté
 
