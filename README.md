@@ -10,14 +10,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -44,6 +39,6 @@ i stil prefer debian over arch. stuck in windows cuz OEM >:(
 </div>
 <br>
 
-  [![Github Stats](img src="https://github-readme-stats.vercel.app/api?username=vasishthg&show_icons=true&theme=dark)]
-  [![Github Stats]https://github-readme-stats.vercel.app/api/top-langs/?username=vasishthg&layout=compact&card_width=250&langs_count=6&theme=dark")]
+  ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vasishthg&show_icons=true&theme=dark)
+  ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vasishthg&layout=compact&card_width=250&langs_count=6&theme=dark)
 <h4>thought of updatin ma github, looked way too outdated ;-;</h4>
