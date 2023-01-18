@@ -44,6 +44,6 @@ i stil prefer debian over arch. stuck in windows cuz OEM >:(
 </div>
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vasishthg&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasishthg&layout=compact&card_width=250&langs_count=6&theme=dark"/>
+  [![Github Stats](img src="https://github-readme-stats.vercel.app/api?username=vasishthg&show_icons=true&theme=dark)]
+  [![Github Stats]https://github-readme-stats.vercel.app/api/top-langs/?username=vasishthg&layout=compact&card_width=250&langs_count=6&theme=dark")]
 <h4>thought of updatin ma github, looked way too outdated ;-;</h4>
